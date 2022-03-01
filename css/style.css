@@ -1,0 +1,21 @@
+.tarjeta__imagen {
+    border-width: 5px;
+    border-style: double;
+    border-color: black;
+    border-radius: 20px;
+    margin: auto;
+    display: block;
+    width: 400px;
+    height: 250px;
+    }
+
+.tarjeta__descripcion {
+    text-align: center;
+    margin: auto;
+    padding-bottom: 30px;
+    }
+
+.lista {
+    display: inline;
+    text-align: end;
+    }
